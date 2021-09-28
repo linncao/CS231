@@ -1,0 +1,11 @@
+totalWordCount: 24
+the 4
+foolishness 1
+best 1
+times 2
+of 4
+was 4
+it 4
+worst 1
+age 2
+wisdom 1
