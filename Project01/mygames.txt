@@ -1,0 +1,60 @@
+
+RESHUFFLE CUTOFF: 26
+
+     Initial hands
+Cards in player's hand: 2 10
+Sum of player's hand: 12
+Cards in dealer's hand: 10 8
+Sum of dealer's hand: 18
+     Cards remaining in deck: 48
+     
+     Final hands
+Cards in player's hand: 2 10 6
+Sum of player's hand: 18
+Cards in dealer's hand: 10 8
+Sum of dealer's hand: 18
+     Cards remaining in deck: 47
+
+It's a push!
+
+     Initial hands
+Cards in player's hand: 4 2
+Sum of player's hand: 6
+Cards in dealer's hand: 10 3
+Sum of dealer's hand: 13
+     Cards remaining in deck: 43
+
+     Final hands
+Cards in player's hand: 4 2 10
+Sum of player's hand: 16
+Cards in dealer's hand: 10 3 2 2
+Sum of dealer's hand: 17
+     Cards remaining in deck: 40
+
+Dealer wins!
+
+     Initial hands
+Cards in player's hand: 10 11
+Sum of player's hand: 21
+Cards in dealer's hand: 6 3
+Sum of dealer's hand: 9
+     Cards remaining in deck: 36
+
+     Final hands
+Cards in player's hand: 10 11
+Sum of player's hand: 21
+Cards in dealer's hand: 6 3 6 3
+Sum of dealer's hand: 18
+     Cards remaining in deck: 34
+
+Player wins!
+
+*****
+WARNING NEW RESHUFFLE CUTOFF: 40
+
+
+Cards in player's hand:
+Sum of player's hand: 0
+Cards in dealer's hand:
+Sum of dealer's hand: 0
+     Cards remaining in deck: 52
